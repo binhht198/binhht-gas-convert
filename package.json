@@ -1,0 +1,35 @@
+{
+  "name": "binhht-gas-convert",
+  "version": "1.0.0",
+  "description": "binhht-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binhht198/binhht-gas-convert.git"
+  },
+  "keywords": [
+    "binhht-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "binhht198",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binhht198/binhht-gas-convert/issues"
+  },
+  "homepage": "https://github.com/binhht198/binhht-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+  "binhht-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+  "excel-utils-phuongdh": "^1.0.1",
+  "file-operations-dhp": "^1.0.2"
+  }
+}
